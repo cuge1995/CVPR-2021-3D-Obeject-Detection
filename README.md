@@ -10,9 +10,9 @@ CVPR 2021 papers and code focus on 3D Obeject Detection
 - 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection
 - RangeIoUDet: Range Image Based Real-Time 3D Object Detector Optimized by Intersection Over Union
 - PointAugmenting: Cross-Modal Augmentation for 3D Object Detection
-- LiDAR R-CNN: An Efficient and Universal 3D Object Detector [code](https://github.com/tusimple/LiDAR_RCNN)
-- GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [code](https://github.com/abhi1kumar/groomed_nms)
-- ST3D: Self-Training for Unsupervised Domain Adaptation on 3D Object Detection
+- LiDAR R-CNN: An Efficient and Universal 3D Object Detector `[code](https://github.com/tusimple/LiDAR_RCNN)`
+- GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection `[code](https://github.com/abhi1kumar/groomed_nms)`
+- ST3D: Self-Training for Unsupervised Domain Adaptation on 3D Object Detection `[code](https://github.com/CVMI-Lab/ST3D)`
 - LiDAR-Aug: A General Rendering-Based Augmentation Framework for 3D Object Detection
 - Categorical Depth Distribution Network for Monocular 3D Object Detection
 - MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
