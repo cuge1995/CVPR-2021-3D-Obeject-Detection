@@ -19,7 +19,7 @@ CVPR 2021 papers and code focus on 3D Obeject Detection
 - LiDAR-Aug: A General Rendering-Based Augmentation Framework for 3D Object Detection
 - Categorical Depth Distribution Network for Monocular 3D Object Detection
 - MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
-- HVPR: Hybrid Voxel-Point Representation for Single-Stage 3D Object Detection
+- HVPR: Hybrid Voxel-Point Representation for Single-Stage 3D Object Detection [code](https://github.com/cvlab-yonsei/HVPR)
 - PVGNet: A Bottom-Up One-Stage 3D Object Detector With Integrated Multi-Level Features
 - SRDAN: Scale-Aware and Range-Aware Domain Adaptation Network for Cross-Dataset 3D Object Detection
 - Objects Are Different: Flexible Monocular 3D Object Detection
